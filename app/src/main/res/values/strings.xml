@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">Adcomsu</string>
+
+    <string name="soal_sup">
+        {\"data_soal\":[
+            {\"no\":\"1\", \"soal\":\"................ city in Canada is Toronto.\", \"A\":\"The largest\", \"B\":\"The most large\", \"benar\":\"1\", \"gambar\":\"\"},
+            {\"no\":\"2\", \"soal\":\"The Nile is .......... river in the world.\", \"A\":\"The longest\", \"B\":\"The most long\", \"benar\":\"1\", \"gambar\":\"\"},
+            {\"no\":\"3\", \"soal\":\"That is ........ film I have ever seen.\", \"A\":\"The funniest\", \"B\":\"The most funny\", \"benar\":\"1\", \"gambar\":\"\"},
+            {\"no\":\"4\", \"soal\":\"My sister is ........... dancer in her group.\", \"A\":\"The best\", \"B\":\"The most good\", \"benar\":\"1\", \"gambar\":\"\"},
+            {\"no\":\"5\", \"soal\":\"Orchids are ........ flowers in the world.\", \"A\":\"The beautiful\", \"B\":\"The most beautiful\", \"benar\":\"2\", \"gambar\":\"\"},
+
+            {\"no\":\"6\", \"soal\":\"He has ........... result in the school.\", \"A\":\"The worst\", \"B\":\"The most worst\", \"benar\":\"1\", \"gambar\":\"\"},
+            {\"no\":\"7\", \"soal\":\"February is ........... month of the year\", \"A\":\"The shortest\", \"B\":\"The most short\", \"benar\":\"1\", \"gambar\":\"\"},
+            {\"no\":\"8\", \"soal\":\"I’m taking four classes. My history class is ........... of all\", \"A\":\"The interesting\", \"B\":\"The most interesting\", \"benar\":\"1\", \"gambar\":\"\"},
+            {\"no\":\"9\", \"soal\":\"This restaurant has .......... fried rice in town.\", \"A\":\"The delicious\", \"B\":\"The most delicious\", \"benar\":\"2\", \"gambar\":\"\"},
+            {\"no\":\"10\", \"soal\":\"Jupiter is .... planet in the solar system.\", \"A\":\"The biggest\", \"B\":\"The most big\", \"benar\":\"1\", \"gambar\":\"\"},
+
+            {\"no\":\"11\", \"soal\":\"In my opinion, the Doghouse Cafe has ...... food in the city\", \"A\":\"The best\", \"B\":\"The most best\", \"benar\":\"1\", \"gambar\":\"\"},
+            {\"no\":\"12\", \"soal\":\"Ken is sitting in ........... chair in the room.\", \"A\":\"The comfortabler\", \"B\":\"The most comfortable\", \"benar\":\"2\", \"gambar\":\"\"},
+            {\"no\":\"13\", \"soal\":\"The ............ way to travel is by airplane\", \"A\":\"Fastest\", \"B\":\"Most fastest\", \"benar\":\"1\", \"gambar\":\"\"},
+            {\"no\":\"14\", \"soal\":\"To me, Math is ....... subject\", \"A\":\"The difficult\", \"B\":\"The most difficult\", \"benar\":\"2\", \"gambar\":\"\"},
+            {\"no\":\"15\", \"soal\":\"Asia is ........... continent in the word.\", \"A\":\"The smallest\", \"B\":\"The most small\", \"benar\":\"1\", \"gambar\":\"\"},
+
+            {\"no\":\"16\", \"soal\":\"Sally ordered ......... food on the menu for dinner last night.\", \"A\":\"The expensive\", \"B\":\"The most expensive\", \"benar\":\"2\", \"gambar\":\"\"},
+            {\"no\":\"17\", \"soal\":\"In this city, taking a taxi is ....... way to get to the airport.\", \"A\":\"The easiest\", \"B\":\"The most easy\", \"benar\":\"1\", \"gambar\":\"\"},
+            {\"no\":\"18\", \"soal\":\"Jln. Bigjen Hasan Kasim is ........ street in Palembang.\", \"A\":\"The busiest\", \"B\":\"The most busy\", \"benar\":\"1\", \"gambar\":\"\"},
+            {\"no\":\"19\", \"soal\":\"The Amazon river is ............. river in the world.\", \"A\":\"The largest\", \"B\":\"The most large\", \"benar\":\"1\", \"gambar\":\"\"},
+            {\"no\":\"20\", \"soal\":\"Harry potter novels are ....... books I have ever bought.\", \"A\":\"The expensive\", \"B\":\"The most expensive\", \"benar\":\"2\", \"gambar\":\"\"}
+        ]}
+    </string>
+
+    <string name="soal_comp">
+        {\"data_soal\":[
+            {\"no\":\"1\", \"soal\":\"A Sedan car is ..................... a Sport car..\", \"A\":\"More expensive than\", \"B\":\"Expensiver than\", \"benar\":\"1\", \"gambar\":\"\"},
+            {\"no\":\"2\", \"soal\":\"The Pacific Ocean is ............. the Mediterranean Sea.\", \"A\":\"More important than\", \"B\":\"Importanter than\", \"benar\":\"1\", \"gambar\":\"\"},
+            {\"no\":\"3\", \"soal\":\"His performance is ............ than other stars\", \"A\":\"More bright\", \"B\":\"brighter\", \"benar\":\"2\", \"gambar\":\"\"},
+            {\"no\":\"4\", \"soal\":\"I’m ............. my roommate\", \"A\":\"More lazy than\", \"B\":\"Lazier than\", \"benar\":\"2\", \"gambar\":\"\"},
+            {\"no\":\"5\", \"soal\":\"My brother is .......... I am\", \"A\":\"More tall than\", \"B\":\"Taller than\", \"benar\":\"2\", \"gambar\":\"\"},
+
+            {\"no\":\"6\", \"soal\":\"Iron is .......... wood\", \"A\":\"More heavy than\", \"B\":\"Heavier than\", \"benar\":\"2\", \"gambar\":\"\"},
+            {\"no\":\"7\", \"soal\":\"My physics course is .......... my math course\", \"A\":\"More difficult than\", \"B\":\"Difficult than\", \"benar\":\"1\", \"gambar\":\"\"},
+            {\"no\":\"8\", \"soal\":\"Thailand is ......... korea.\", \"A\":\"More hot than\", \"B\":\"Hotter than\", \"benar\":\"2\", \"gambar\":\"\"},
+            {\"no\":\"9\", \"soal\":\"This book is ..... the last book I read. I fell asleep when I was reading it.\", \"A\":\"More boring than\", \"B\":\"boring than\", \"benar\":\"1\", \"gambar\":\"\"},
+            {\"no\":\"10\", \"soal\":\"The Nile River is ......... the Mississippi.\", \"A\":\"More longer than\", \"B\":\"Longer than\", \"benar\":\"2\", \"gambar\":\"\"},
+
+            {\"no\":\"11\", \"soal\":\"A dog is .......... a chicken\", \"A\":\"More intelligent than\", \"B\":\"Intelligenter than\", \"benar\":\"1\", \"gambar\":\"\"},
+            {\"no\":\"12\", \"soal\":\"My little finger is ...... my middle fingger.\", \"A\":\"More short than\", \"B\":\"Shotter than\", \"benar\":\"2\", \"gambar\":\"\"},
+            {\"no\":\"13\", \"soal\":\"The weather yesterday was ............... it is today\", \"A\":\"Bad than\", \"B\":\"Worse than\", \"benar\":\"2\", \"gambar\":\"\"},
+            {\"no\":\"14\", \"soal\":\"A horse is ............ a person\", \"A\":\"More strong than\", \"B\":\"Stronger than\", \"benar\":\"2\", \"gambar\":\"\"},
+            {\"no\":\"15\", \"soal\":\"Ken’s hair is ........ mine\", \"A\":\"More curly than\", \"B\":\"Curlier than\", \"benar\":\"2\", \"gambar\":\"\"},
+
+            {\"no\":\"16\", \"soal\":\"She looks ........... last week.\", \"A\":\"More fresh than\", \"B\":\"Fresher than\", \"benar\":\"2\", \"gambar\":\"\"},
+            {\"no\":\"17\", \"soal\":\"My sister always gets a winner in the class. She is ...... my brother.\", \"A\":\"More dilligent than\", \"B\":\"Diligenter than\", \"benar\":\"1\", \"gambar\":\"\"},
+            {\"no\":\"18\", \"soal\":\"A cheetah can run ............... a lion\", \"A\":\"More faster than\", \"B\":\"Faster than\", \"benar\":\"2\", \"gambar\":\"\"},
+            {\"no\":\"19\", \"soal\":\"Her cook is ........ Than my mother cook\", \"A\":\"more spicy than\", \"B\":\"spicier than\", \"benar\":\"2\", \"gambar\":\"\"},
+            {\"no\":\"20\", \"soal\":\"A whale is ............. a shark\", \"A\":\"More big than\", \"B\":\"Bigger than\", \"benar\":\"2\", \"gambar\":\"\"}
+        ]}
+    </string>
+
+    <string name="soal_comp_essay">
+        {\"data_soal\":[
+            {\"no\":\"1\", \"soal\":\"Rony’s design is …………. (bad) than other designs.\", \"benar\":\"Worse\", \"gambar\":\"\"},
+            {\"no\":\"2\", \"soal\":\"Living in London is ……………… (expensive) than New York.\", \"benar\":\"More expensive\", \"gambar\":\"\"},
+            {\"no\":\"3\", \"soal\":\"She couldn’t be ……………… (thrilled) to work with him.\", \"benar\":\"More thrilled\", \"gambar\":\"\"},
+            {\"no\":\"4\", \"soal\":\"The harvest this month is ………………. (little) than zero.\", \"benar\":\"Less\", \"gambar\":\"\"},
+            {\"no\":\"5\", \"soal\":\"The banana flaky is ………………. (crunchy) than cassava flaky.\", \"benar\":\"More crunchy\", \"gambar\":\"\"},
+
+            {\"no\":\"6\", \"soal\":\"The patient needs …………….. (much) support after the accident.\", \"benar\":\"more\", \"gambar\":\"\"},
+            {\"no\":\"7\", \"soal\":\"Rita can walk …………………… (far) than you think.\",\"benar\":\"Further\", \"gambar\":\"\"},
+            {\"no\":\"8\", \"soal\":\"I want to get a job ………………… (good) than before.\",\"benar\":\"Better\", \"gambar\":\"\"},
+            {\"no\":\"9\", \"soal\":\"My sister play a music …………… ……… (slow) than last night.\", \"benar\":\"Slower\", \"gambar\":\"\"},
+            {\"no\":\"10\", \"soal\":\"His performance is …………… (bright) than other stars.\", \"benar\":\"Brighter\", \"gambar\":\"\"}
+        ]}
+    </string>
+
+    <string name="soal_sup_essay">
+        {\"data_soal\":[
+            {\"no\":\"1\", \"soal\":\"He is the…………….(funny) man that I’ve ever met.\", \"benar\":\"Funniest\", \"gambar\":\"\"},
+            {\"no\":\"2\", \"soal\":\"Sarah is the ………………. (pretty) woman in this event.\", \"benar\":\"Prettiest\", \"gambar\":\"\"},
+            {\"no\":\"3\", \"soal\":\"No one is the………………(fair) in this world except the God.\", \"benar\":\"the funniest\", \"gambar\":\"\"},
+            {\"no\":\"4\", \"soal\":\"Venus is the .................... (hot) planet in our solar system.\", \"benar\":\"hottest\", \"gambar\":\"\"},
+            {\"no\":\"5\", \"soal\":\"Baren Saat was the………………(talented) actress in Turkey.\", \"benar\":\"most talented\", \"gambar\":\"\"},
+
+            {\"no\":\"6\", \"soal\":\"Saturn is the………………….(beautiful) planet.\", \"benar\":\"most beautiful\", \"gambar\":\"\"},
+            {\"no\":\"7\", \"soal\":\"Mercury is the ……………… (small) planet in our solar system.\",\"benar\":\"smallest\", \"gambar\":\"\"},
+            {\"no\":\"8\", \"soal\":\"The Energy is the……………(powerful) rocket.\",\"benar\":\"most powerful\", \"gambar\":\"\"},
+            {\"no\":\"9\", \"soal\":\"Sirius is the …………….. (brilliant) star we can see from earth.\", \"benar\":\"most brilliant\", \"gambar\":\"\"},
+            {\"no\":\"10\", \"soal\":\"My birthday in this year is the …………….(sweet) in my life.\", \"benar\":\"sweetest \", \"gambar\":\"\"}
+        ]}
+    </string>
+
+    <string name="data_dic">
+        {\"field\":[
+            {\"id_word\":\"1\",\"adj\":\"Big\",\"cmp\":\"Bigger\",\"sup\":\"Biggest\"},{\"id_word\":\"2\",\"adj\":\"Angry\",\"cmp\":\"Angrier\",\"sup\":\"Angriest\"},
+            {\"id_word\":\"3\",\"adj\":\"Bad\",\"cmp\":\"Worse\",\"sup\":\"Worst\"},{\"id_word\":\"4\",\"adj\":\"Bitter\",\"cmp\":\"Bitteree\",\"sup\":\"Bitterest\"},
+            {\"id_word\":\"5\",\"adj\":\"Busy\",\"cmp\":\"Busier\",\"sup\":\"Busiest\"},{\"id_word\":\"6\",\"adj\":\"Cool\",\"cmp\":\"cooler\",\"sup\":\"Coolest\"},
+            {\"id_word\":\"7\",\"adj\":\"Crazy\",\"cmp\":\"Crazier\",\"sup\":\"Craziest\"},{\"id_word\":\"8\",\"adj\":\"Curly\",\"cmp\":\"Curlier\",\"sup\":\"Curliest\"},
+            {\"id_word\":\"9\",\"adj\":\"Crazy\",\"cmp\":\"Crazier\",\"sup\":\"Craziest\"},{\"id_word\":\"10\",\"adj\":\"Cheap\",\"cmp\":\"Cheaper\",\"sup\":\"Cheapest\"},
+            {\"id_word\":\"11\",\"adj\":\"Cold\",\"cmp\":\"Colder\",\"sup\":\"Coldest\"},{\"id_word\":\"12\",\"adj\":\"Cruel\",\"cmp\":\"Crueller\",\"sup\":\"Cruellest\"},
+            {\"id_word\":\"13\",\"adj\":\"Damp\",\"cmp\":\"Damper\",\"sup\":\"Dampest\"},{\"id_word\":\"14\",\"adj\":\"Dusty\",\"cmp\":\"Dustier\",\"sup\":\"Dustiest\"},
+            {\"id_word\":\"15\",\"adj\":\"Early\",\"cmp\":\"Earlier\",\"sup\":\"Earliest\"},{\"id_word\":\"16\",\"adj\":\"Easy\",\"cmp\":\"Easier\",\"sup\":\"Easiest\"},
+            {\"id_word\":\"17\",\"adj\":\"Faint\",\"cmp\":\"Fainter\",\"sup\":\"Faintest\"},{\"id_word\":\"18\",\"adj\":\"Fair\",\"cmp\":\"Fairer\",\"sup\":\"Fairest\"},
+            {\"id_word\":\"19\",\"adj\":\"Far\",\"cmp\":\"further\\/farther\",\"sup\":\"furthest\\/farthest\"},{\"id_word\":\"20\",\"adj\":\"Fine\",\"cmp\":\"Finer\",\"sup\":\"Finest\"},
+            {\"id_word\":\"21\",\"adj\":\"Fresh\",\"cmp\":\"Fresher\",\"sup\":\"Freshest\"},{\"id_word\":\"22\",\"adj\":\"Friendly\",\"cmp\":\"Friendlier\",\"sup\":\"Friendliest\"},
+            {\"id_word\":\"23\",\"adj\":\"Full\",\"cmp\":\"Fuller\",\"sup\":\"Fullest\"},{\"id_word\":\"24\",\"adj\":\"Funny\",\"cmp\":\"Funnier\",\"sup\":\"Funniest\"},
+            {\"id_word\":\"25\",\"adj\":\"Gentle\",\"cmp\":\"Gentler\",\"sup\":\"Gentlest\"},{\"id_word\":\"26\",\"adj\":\"Good\",\"cmp\":\"Better\",\"sup\":\"Best\"},
+            {\"id_word\":\"27\",\"adj\":\"Grand\",\"cmp\":\"Grander\",\"sup\":\"Grandest\"},{\"id_word\":\"28\",\"adj\":\"Grave\",\"cmp\":\"Graver\",\"sup\":\"Gravest\"},
+            {\"id_word\":\"29\",\"adj\":\"Greasy\",\"cmp\":\"Greasier\",\"sup\":\"Greasiest\"},{\"id_word\":\"30\",\"adj\":\"Great\",\"cmp\":\"Greater\",\"sup\":\"Greatest\"},
+            {\"id_word\":\"31\",\"adj\":\"Greedy\",\"cmp\":\"Greedier\",\"sup\":\"Greediest\"},{\"id_word\":\"32\",\"adj\":\"Gross\",\"cmp\":\"Grosser\",\"sup\":\"Grossest\"},
+            {\"id_word\":\"33\",\"adj\":\"Guilty\",\"cmp\":\"Guilter\",\"sup\":\"Guiltiest\"},{\"id_word\":\"34\",\"adj\":\"Hairy\",\"cmp\":\"Hairier\",\"sup\":\"Hairiest\"},
+            {\"id_word\":\"35\",\"adj\":\"Handy\",\"cmp\":\"Handier\",\"sup\":\"Handiest\"},{\"id_word\":\"36\",\"adj\":\"Happy\",\"cmp\":\"Happier\",\"sup\":\"Happiest\"},
+            {\"id_word\":\"37\",\"adj\":\"Gloomy\",\"cmp\":\"Gloomier\",\"sup\":\"Gloomiest\"},{\"id_word\":\"38\",\"adj\":\"Hard\",\"cmp\":\"Harder\",\"sup\":\"Hardest\"},
+            {\"id_word\":\"39\",\"adj\":\"Healthy\",\"cmp\":\"Healthier\",\"sup\":\"healthiest\"},{\"id_word\":\"40\",\"adj\":\"Heavy\",\"cmp\":\"Heavier\",\"sup\":\"Heaviest\"},
+            {\"id_word\":\"41\",\"adj\":\"High\",\"cmp\":\"Higher\",\"sup\":\"Highest\"},{\"id_word\":\"42\",\"adj\":\"Hot\",\"cmp\":\"Hotter\",\"sup\":\"Hottest\"},
+            {\"id_word\":\"43\",\"adj\":\"Humble\",\"cmp\":\"Humbler\",\"sup\":\"Humblest\"},{\"id_word\":\"44\",\"adj\":\"Hungry\",\"cmp\":\"Hungrier\",\"sup\":\"Hungriest\"},
+            {\"id_word\":\"45\",\"adj\":\"Large\",\"cmp\":\"Larger\",\"sup\":\"Largest\"},{\"id_word\":\"46\",\"adj\":\"Late\",\"cmp\":\"Later\",\"sup\":\"Latest\"},
+            {\"id_word\":\"47\",\"adj\":\"Lazy\",\"cmp\":\"Lazier\",\"sup\":\"Laziest\"}
+        ]}
+    </string>
+</resources>

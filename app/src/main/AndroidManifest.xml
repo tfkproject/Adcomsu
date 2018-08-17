@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="app.tfkproject.adcomsu">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SplashscreenActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="Fun to Learn Adcomsu"/>
+        <activity
+            android:name=".DictActivity"
+            android:label="Dictionary"/>
+
+        <activity
+            android:name=".DictDetailActivity"
+            android:label="Dictionary"/>
+
+        <activity
+            android:name=".MateriActivity"
+            android:label="Materi"/>
+
+        <activity
+            android:name=".QuizPilihActivity"
+            android:label="Quiz"/>
+
+        <activity
+            android:name=".QuizEssayActivity"
+            android:label="Quiz Essay"/>
+
+        <activity
+            android:name=".QuizActivity"
+            android:label="Quiz"/>
+    </application>
+
+</manifest>
